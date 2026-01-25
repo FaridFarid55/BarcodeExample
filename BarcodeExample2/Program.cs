@@ -7,8 +7,6 @@ namespace BorcodeExample2
     {
         static void Main(string[] args)
         {
-            // welcome User 
-            Console.WriteLine("Welcome To Boarcode App");
 
             // item Catogry --> 3
             // item Price   --> 5
